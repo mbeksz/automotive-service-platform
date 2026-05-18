@@ -111,3 +111,4 @@ frontend/
 - Veritabanı tabanlı granüler RBAC sistemi
 - Test sürüşü leadleri için Zoho CRM otomatik senkronizasyonu
 - Integer doğrulama middleware ile güvenli public API
+
