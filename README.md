@@ -13,6 +13,16 @@
   <img src="https://img.shields.io/badge/Tür-Özel%20Kurumsal%20Yazılım-blue?style=flat-square" />
 </p>
 
+<p align="center">
+  <a href="https://online-randevu.otomol.com/randevu-olustur">
+    <img src="https://img.shields.io/badge/🔗%20Servis%20Randevu-Canlı%20Demo-2563EB?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://online-randevu.otomol.com/test-surusu">
+    <img src="https://img.shields.io/badge/🚗%20Test%20Sürüşü-Canlı%20Demo-16A34A?style=for-the-badge" />
+  </a>
+</p>
+
 ---
 
 > Bu proje bir otomotiv bayilik grubu için özel kurumsal yazılım olarak geliştirilmiştir.
