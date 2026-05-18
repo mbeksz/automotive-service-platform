@@ -81,6 +81,10 @@ frontend/
 
 ---
 
+<img width="1905" height="945" alt="Adsız tasarım (7)" src="https://github.com/user-attachments/assets/0aada85b-b598-4283-8a52-c0db56337b1f" />
+
+<img width="1914" height="938" alt="Adsız tasarım (4)" src="https://github.com/user-attachments/assets/af320662-7480-4f59-92c7-e1163b6219d6" />
+
 ## Temel Özellikler
 
 - Tek platform üzerinden çok markalı, çok şubeli yönetim
