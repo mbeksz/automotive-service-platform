@@ -85,6 +85,8 @@ frontend/
 
 <img width="1914" height="938" alt="Adsız tasarım (4)" src="https://github.com/user-attachments/assets/af320662-7480-4f59-92c7-e1163b6219d6" />
 
+<img  height="534" alt="Resim4" src="https://github.com/user-attachments/assets/a42e65ca-ffa8-40d1-8ca1-01ece09b4b59" />
+
 ## Temel Özellikler
 
 - Tek platform üzerinden çok markalı, çok şubeli yönetim
